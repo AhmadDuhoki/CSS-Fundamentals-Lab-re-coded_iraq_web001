@@ -40,4 +40,7 @@ section p {
 
 section div {
   float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
 }
